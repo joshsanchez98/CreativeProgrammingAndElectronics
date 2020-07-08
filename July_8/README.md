@@ -2,7 +2,7 @@
 
 **Description of Environment** 
 
-Hi everyone! I would describe myself as adventurous and as a go-getter.  Therefore, I wanted to show that throughout the entire course of the day, I keep myself occupied both academically, professionally, personally, and emotionally.  
+Hi everyone! I would describe myself as adventurous and as a go-getter.  Therefore, I wanted to show that throughout the entire course of the day, I keep myself occupied in mind, body and spirit.  
 
 - During the day, I enjoy traveling and going to the beach.  I have been a competitve swimmer throughout high school, and I continue to swim daily, while also staying outside whenever I can.  I am also a weather-moody person, so I want to emphasize that I enjoy being in the sun.  
 
