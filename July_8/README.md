@@ -31,5 +31,5 @@ When making the body, it was always difficult to press the play button over and 
 
 I also did my best to depict the details within the palm tree, as well as the details about the Los Angeles skyline, through lines, arcs, and randomly generated shapes.  This introduction to static programming in Processing (Version 3.5.4) was fascinating to undergo.
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Alt text](/Screen Shot 2020-07-08 at 1.42.23 AM.png?raw=true "My Self-Portrait")
 
