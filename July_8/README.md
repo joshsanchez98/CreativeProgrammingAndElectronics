@@ -25,7 +25,7 @@ I wish I had taken this step-by-step process instead:
 - 1) First, create the entity completely.
 - 2) Then, move the entity to its desired position.
 
-When making the body, it was always difficult to press the play button over and over again.  
+When making the body, I found it annoying to press the play button over and over again.  
 - When getting the shape of the figure, I didn’t want to use `quad()`; difficult to pinpoint exact points.
 - When making the arms, I had attempted to rotate the shape by using `rotate()`, but many other parts kept moving, so I opted out. 
 
