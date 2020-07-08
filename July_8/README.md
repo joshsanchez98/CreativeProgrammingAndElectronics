@@ -14,7 +14,7 @@ Hi everyone! I would describe myself as adventurous and as a go-getter.  Therefo
 
 **Difficulties and Problems Encountered, and Further Comments**
 
-This took me a long time to make; nearly 4 hours to make as I am only a beginner-level programmer. I was pretty ambitious.  Originally, I wanted to also add a lot more detail, but however, I feel that the syntax about going through the program would take a while.
+This took me a long time to make; nearly 4 hours to make as I am only a beginner-level programmer, and I had never used Processing prior. I was pretty ambitious.  Originally, I wanted to also add a lot more detail, but however, I feel that the syntax about going through the program would take a while.
 
 - I had to use the function `strokeWeight()` to change the dimensions of my lines.
 - I needed to draw out the shape and draw out the dimensions myself.  
@@ -27,6 +27,6 @@ I wish I had taken this step-by-step process instead:
 
 When making the body, it was always difficult to press the play button over and over again.  
 - When getting the shape of the figure, I didn’t want to use `quad()`; difficult to pinpoint exact points.
-- When making the arms, I had to rotate the shape by using `rotate()`. 
+- When making the arms, I had attempted to rotate the shape by using `rotate()`, but many other parts kept moving, so I opted out. 
 
 I also did my best to depict the details within the palm tree, as well as the details about the Los Angeles skyline, through lines, arcs, and randomly generated shapes.  This introduction to static programming in Processing (Version 3.5.4) was fascinating to undergo.
