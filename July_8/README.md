@@ -30,3 +30,6 @@ When making the body, it was always difficult to press the play button over and 
 - When making the arms, I had attempted to rotate the shape by using `rotate()`, but many other parts kept moving, so I opted out. 
 
 I also did my best to depict the details within the palm tree, as well as the details about the Los Angeles skyline, through lines, arcs, and randomly generated shapes.  This introduction to static programming in Processing (Version 3.5.4) was fascinating to undergo.
+
+![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+
