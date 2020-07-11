@@ -6,4 +6,4 @@
 
 **Difficulties I Had and How I Overcame Them**
 
-**Interestings Things That I Discovered**
+**Interesting Things That I Discovered**
