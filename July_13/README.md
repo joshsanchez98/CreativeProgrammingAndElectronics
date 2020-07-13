@@ -1,5 +1,7 @@
 # Production Assignment: Work of Art
 
+![Yes](https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/July_8/Screen%20Shot%202020-07-08%20at%201.42.23%20AM.png)
+
 **Description of Inspiration**
 
 I do not possess an extensive art history background, but through watching videos of talks and reading research, I was inspired by the following resources: 
