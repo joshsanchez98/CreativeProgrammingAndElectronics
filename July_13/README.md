@@ -1,16 +1,16 @@
 # Production Assignment: Work of Art
 
-![Yes](https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/July_8/Screen%20Shot%202020-07-08%20at%201.42.23%20AM.png)
+![Yes](https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/July_13/my_image.png)
 
 **Description of Inspiration**
 
 I do not possess an extensive art history background, but through watching videos of talks and reading research, I was inspired by the following resources: 
 
-- Casey Reas’ Eyes Talk on Chance Operations.  Reas introduced AI in art: “Make something artificial but still have an organic quality to it.”  I want to eventually use AI to transform quantitative data into art that helps the viewer understand their data in a creative way.  (The AI is not reflected in this art piece, but in further iterations, I really want to incorporate this.)
+- [Casey Reas’ Eyes Talk on Chance Operations](https://vimeo.com/45851523).  Reas introduced AI in art: “Make something artificial but still have an organic quality to it.”  I want to eventually use AI to transform quantitative data into art that helps the viewer understand their data in a creative way.  (The AI is not reflected in this art piece, but in further iterations, I really want to incorporate this.)
 
-- Nonotak: Collaboration between an illustrator and architect musician.  Light and sound installations, “creating an ethereal, immersive and dreamlike environment meant to envelope the viewer.”  This would explain the transparent color choices and circular motion of each of the shapes. Eventually, more features would be added that reflect this perspective, such as adding immersive sound, and using that sound to drive the art piece forward.
+- [Nonotak](https://www.youtube.com/watch?v=UY7l_UgHhBQ): Collaboration between an illustrator and architect musician.  Light and sound installations, “creating an ethereal, immersive and dreamlike environment meant to envelope the viewer.”  This would explain the transparent color choices and circular motion of each of the shapes. Eventually, more features would be added that reflect this perspective, such as adding immersive sound, and using that sound to drive the art piece forward.
 
-- Truchet Tiles: This was found from the website. In high school, I took two graphic design courses, and I started to develop my loves for simple, yet, regenerative patterns like these below.  The illusions interest me because you can create such imaginative and out-of-the-box designs even in the construct of order. 
+- Truchet Tiles: This was found from the [website](https://sites.google.com/site/desinv23summer2019/slides/patterns). In high school, I took two graphic design courses, and I started to develop my loves for simple, yet, regenerative patterns like these below.  The illusions interest me because you can create such imaginative and out-of-the-box designs even in the construct of order. 
 
 **Description of Rules Used to Create This Artwork, and Programming**
 
