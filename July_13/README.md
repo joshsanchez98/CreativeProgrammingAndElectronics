@@ -10,7 +10,9 @@ I do not possess an extensive art history background, but through watching video
 
 - [Nonotak](https://www.youtube.com/watch?v=UY7l_UgHhBQ): Collaboration between an illustrator and architect musician.  Light and sound installations, “creating an ethereal, immersive and dreamlike environment meant to envelope the viewer.”  This would explain the transparent color choices and circular motion of each of the shapes. Eventually, more features would be added that reflect this perspective, such as adding immersive sound, and using that sound to drive the art piece forward.
 
-- Truchet Tiles: This was found from the [website](https://sites.google.com/site/desinv23summer2019/slides/patterns). In high school, I took two graphic design courses, and I started to develop my loves for simple, yet, regenerative patterns like these below.  The illusions interest me because you can create such imaginative and out-of-the-box designs even in the construct of order. 
+- Truchet Tiles: This was found from the [website](https://sites.google.com/site/desinv23summer2019/slides/patterns). In high school, I took two graphic design courses, and I started to develop my loves for simple, yet, regenerative patterns like these below.  The illusions interest me because you can create such imaginative and out-of-the-box designs even in the construct of order.  
+
+![Yes](https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/July_13/truchet_tiles.png)
 
 **Description of Rules Used to Create This Artwork, and Programming**
 
