@@ -1,6 +1,6 @@
 # Production Assignment: Four Corners Ping-Pong Game
 
-![Yes](https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/July_15/Screen%20Shot%202020-07-15%20at%202.59.36%20AM.png =500x500)
+<img src = 'https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/July_15/Screen%20Shot%202020-07-15%20at%202.59.36%20AM.png' width = 500 height = 500>
 ![Yes](https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/July_15/Screen%20Shot%202020-07-15%20at%203.02.53%20AM.png =500x500)
 ![Yes](https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/July_15/Screen%20Shot%202020-07-15%20at%202.59.54%20AM.png =500x500)
 
