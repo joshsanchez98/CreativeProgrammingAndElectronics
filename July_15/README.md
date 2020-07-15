@@ -9,6 +9,9 @@ I decided to make a simple game of ping-pong to start familiarizing myself with 
 - The object of the game is to keep the ball inside of the screen.  
 - Use your mouse to guide each of the four walls to keep your ball inside the screen.
 - Every bounce on one of the four walls scores 1 point. 
+- The ball speeds up a random amount after every hit.
+- The session ends once the reaches out of bounds, then the finish screen appears.
+- Click on the screen to reset your game session.
 - The game keeps track of your highest score.  
 
 I've also created some
