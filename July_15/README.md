@@ -12,7 +12,10 @@ I decided to make a simple game of ping-pong to start familiarizing myself with 
 - The game keeps track of your highest score.  
 
 I've also created some
-features to make the game more visually appealing, such as playing with font visuals as well as the finished screen.  
+features to make the game more visually appealing, such as 
+- playing with font visuals,
+- having the red value of the RGB deepen after every point earned,
+- playing with the visuals of the finish screen overall.  
 
 **Difficulties, Interesting Things and Other Notes**
 - When the ball hits any of the four walls, the program would sometimes glitch, the ball would fall through the walls, and then spam the score counter approximately
