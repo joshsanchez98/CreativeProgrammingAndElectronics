@@ -91,7 +91,7 @@ void draw() {
   font = createFont("Raleway-ExtraBold", 20);
   textFont(font);
   fill(0, 255, 0); // green color
-  text("BEST: " + best_score, width - width/16, height - height/16); // current score
+  text("BEST: " + best_score, width - width/16, height - height/16); // text tracking best score
   pop();
   
   push();
@@ -161,7 +161,7 @@ void draw() {
     textAlign(CENTER, CENTER);
     font = createFont("Raleway-ExtraBold", 300 + number);
     textFont(font);
-    text(number, height/2, width/2); // current score
+    text(number, height/2, width/2); // final score, layered on top of finish screen
     pop();
     
     // update best score
@@ -172,7 +172,7 @@ void draw() {
       font = createFont("Raleway-ExtraBold", 20);
       textFont(font);
       fill(0, 255, 0); // green color
-      text("NEW HIGH SCORE!", width/2, height/8 + height/16); // current score
+      text("NEW HIGH SCORE!", width/2, height/8 + height/16); // words "new high score"
       pop();
     }
     
