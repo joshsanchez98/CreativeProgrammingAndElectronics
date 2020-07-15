@@ -2,8 +2,13 @@
 
 **Description of Art**
 
-I decided to make a simple game of ping-pong to start familiarizing myself with the interactivity of the mouse and the program.  The object of the game is to 
-keep the ball inside of the screen.  Every bounce on one of the four walls scores 1 point. The game keeps track of your highest score.  I've also created some
+I decided to make a simple game of ping-pong to start familiarizing myself with the interactivity of the mouse and the program.  
+- The object of the game is to keep the ball inside of the screen.  
+- Use your mouse to guide each of the four walls to keep your ball inside the screen.
+- Every bounce on one of the four walls scores 1 point. 
+- The game keeps track of your highest score.  
+
+I've also created some
 features to make the game more visually appealing, such as playing with font visuals as well as the finished screen.  
 
 **Difficulties, Interesting Things and Other Notes**
