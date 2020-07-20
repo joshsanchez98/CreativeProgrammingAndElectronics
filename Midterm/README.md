@@ -1,5 +1,7 @@
 # Midterm: Fix the TV
 
+
+
 **Description of Game, Fix the TV:**
 
 - Objective: Your job is to fix the TV to get to watching your favorite show at the best quality possible.
