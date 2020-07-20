@@ -15,6 +15,7 @@
 Github thread for Mac OS Catalina users: [Link.](https://github.com/processing/processing-video/issues/134#issuecomment-550359384)
 - Asking fellow classmates and Professor for assistance.
 - Getting the processing.sound to work.  Similar to issue above, I had trouble connecting my Processing file with my microphone.  *Therefore, I ended up importing audio instead of using my microphone for the time being.*
+- Positioning the pixels for the TV.  Because the pixels were numbered by a long string/array, I had to use some mental math and visualization to be able to generate the static in the place which I had wanted to.
 
 References:
 The Coding Train
