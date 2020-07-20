@@ -1,6 +1,6 @@
 # Midterm: Fix the TV
 
-<img src = 'https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/Midterm/Screen%20Shot%202020-07-20%20at%204.13.04%20AM.png' width = 300 height = 250> | <img src = 'https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/Midterm/Screen%20Shot%202020-07-20%20at%204.13.29%20AM.png' width = 300 height = 250>
+<img src = 'https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/Midterm/Screen%20Shot%202020-07-20%20at%204.13.04%20AM.png' width = 500 height = 450> | <img src = 'https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/Midterm/Screen%20Shot%202020-07-20%20at%204.13.29%20AM.png' width = 500 height = 450>
 
 **Description of Game, Fix the TV:**
 
