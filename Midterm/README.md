@@ -1,7 +1,7 @@
 # Midterm: Fix the TV
 
-[!](https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/Midterm/Screen%20Shot%202020-07-20%20at%204.13.04%20AM.png)
-[!](https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/Midterm/Screen%20Shot%202020-07-20%20at%204.13.29%20AM.png)
+![](https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/Midterm/Screen%20Shot%202020-07-20%20at%204.13.04%20AM.png)
+![](https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/Midterm/Screen%20Shot%202020-07-20%20at%204.13.29%20AM.png)
 
 **Description of Game, Fix the TV:**
 
