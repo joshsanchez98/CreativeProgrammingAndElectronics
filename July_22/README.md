@@ -1,5 +1,7 @@
 # Production Assignment: Introduction to Arduino
 
+![](animated.gif)
+
 **Description of Piece:**
 
 My background in circuits and electronics in general are absolutely foreign, so this was a really fun and interesting project for me.  I had tried to use all the knowledge and concepts that were covered in class.  Here are a list of things that my project can do:
