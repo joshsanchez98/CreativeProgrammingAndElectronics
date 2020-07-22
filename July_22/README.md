@@ -1,6 +1,8 @@
 # Production Assignment: Introduction to Arduino
 
 ![](animated.gif)
+![](IMG_7694.jpg)
+![](Schematic.jpeg)
 
 **Description of Piece:**
 
