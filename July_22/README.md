@@ -19,8 +19,8 @@ Then, there are bonus animations when you cover/activate the photoresistor.  Try
 - I used with a simple LED, wire and resistor configuration before moving on to more advanced stages in order to quality check my work.
 
 **Difficulties, Challenges, and Other Interesting Tidbits**  
-- Initially, I wanted 3 lights for each, but I had noticed that my Arduino Uno features only 6 pins, which made creating only 6 points feasible.
-- Being a novice with circuits, understanding common features took time.
+- Initially, I wanted 3 lights for each, but I had noticed that my Arduino Uno features only 6 pins that were analog, which made creating only a 6-LED-light fixture feasible, due to the size of the breadboard and the materials I had at the time.
+- Being a novice with circuits, understanding common features took time.  I needed to watch and to read multiple tutorials.
 -- For example, the LED lights only work if they are faced in the right direction, and because the longer end was faced towards the ground, I was stuck for literally hours before I had noticed!
 - You have to be very careful with working with the parts, as they are very delicate.  I had to make sure that I created this circuit board at a slower pace!
 -- Tip: Using the screwdriver in many situations can really make for a more easing process.
