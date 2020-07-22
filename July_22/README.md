@@ -8,7 +8,7 @@
 
 **Description of Piece:**
 
-My background in circuits and electronics in general is at a level of a novice, so this was a really fun and interesting project for me.  I had tried to use all the knowledge and concepts that were covered in class.  Here are a list of things that my project can do:
+My background in circuits and electronics in general is at a level of a novice, so this was a really fun and interesting project for me.  I had tried to use all the knowledge and concepts that were covered in the first class.  Here are a list of things that my project can do:
 - When you press just the blue button, the blue lights flicker.
 - When you press just the yellow button, the yellow lights flicker.
 - When you press the blue and yellow button simultaneously, the green lights flicker.
