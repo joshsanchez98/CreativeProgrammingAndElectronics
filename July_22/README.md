@@ -1,8 +1,8 @@
 # Production Assignment: Introduction to Arduino
 
 ![](animated.gif)
-![](IMG_7694.jpg =600x800)
-![](Schematic.jpeg =800x1100)
+![](https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/July_22/IMG_7694.jpg =600x800)
+![](https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/July_22/Schematic.jpeg =800x1100)
 
 **Description of Piece:**
 
