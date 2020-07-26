@@ -1,6 +1,6 @@
 # Production Assignment: Sound-Making Instrument
 
-**Project Description:**
+**Project Description**
 
 **Things That Were Clever Or Tricky**
 
