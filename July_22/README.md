@@ -6,9 +6,9 @@
 
 **Picture of Project:**
 
-<img src="https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/July_22/IMG_7694.jpg" width="800" height="550">
+<img src="https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/July_22/IMG_7694.jpg" width="700" height="500">
 
-**Schematic**
+**Schematic:**
 
 <img src="https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/July_22/Schematic.jpeg" width="500" height="700">
 
