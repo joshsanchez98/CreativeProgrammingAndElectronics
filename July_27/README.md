@@ -1,4 +1,4 @@
-# Production Assignment: Sound-Making Instrument
+# Production Assignment: Shakira-Inspired Instrument
 
 **Project Description**
 
@@ -32,4 +32,10 @@ Link to MP4 Video Demonstration: [Link](https://drive.google.com/file/d/1RaSDwkU
 
 **Photograph of Instrument**
 
+<img src="https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/July_27/IMG_7707.JPG">
+
 **Close Photograph of Electronics**
+
+<img src="https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/July_27/IMG_7703.JPG" width="500" height="500"> |
+<img src="https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/July_27/IMG_7703.JPG" width="500" height="600"> |
+<img src="https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/July_27/IMG_7703.JPG" width="600" height="500"> 
