@@ -36,6 +36,13 @@ Link to MP4 Video Demonstration: [Link](https://drive.google.com/file/d/1RaSDwkU
 
 **Close Photograph of Electronics**
 
-<img src="https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/July_27/IMG_7703.JPG" width="300" height="300"> |
-<img src="https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/July_27/IMG_7705.JPG" width="300" height="400"> |
+<img src="https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/July_27/IMG_7703.JPG" width="300" height="300"> 
+<img src="https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/July_27/IMG_7705.JPG" width="300" height="400"> 
 <img src="https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/July_27/IMG_7706.JPG" width="400" height="300"> 
+
+**References Used Often**
+- https://www.youtube.com/watch?v=-ku1FDHMhpg
+- https://www.arduino.cc/en/Tutorial/Knob
+- https://www.arduino.cc/en/Tutorial/ToneMelody
+- https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-experiment-guide---v40/circuit-1b-potentiometer
+
