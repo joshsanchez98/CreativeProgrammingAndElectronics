@@ -28,6 +28,8 @@ For my instrument, I decided to create one based on Shakira’s “Hips Don’t 
 
 **Link to Short Video of Instrument Being Played**
 
+Link to MP4 Video Demonstration: [Link](https://drive.google.com/file/d/1RaSDwkU-C4QWyy_zLe_JHOHseluSeCJy/view?usp=sharing)
+
 **Photograph of Instrument**
 
 **Close Photograph of Electronics**
