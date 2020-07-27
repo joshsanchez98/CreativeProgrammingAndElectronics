@@ -24,6 +24,8 @@ For my instrument, I decided to create one based on Shakira’s “Hips Don’t 
 
 **Schematic**
 
+<img src="https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/July_27/2020-07-27%2003-16.jpeg" width="500" height="700">
+
 **Link to Short Video of Instrument Being Played**
 
 **Photograph of Instrument**
