@@ -36,6 +36,6 @@ Link to MP4 Video Demonstration: [Link](https://drive.google.com/file/d/1RaSDwkU
 
 **Close Photograph of Electronics**
 
-<img src="https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/July_27/IMG_7703.JPG" width="500" height="500"> |
-<img src="https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/July_27/IMG_7705.JPG" width="500" height="600"> |
-<img src="https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/July_27/IMG_7706.JPG" width="600" height="500"> 
+<img src="https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/July_27/IMG_7703.JPG" width="300" height="300"> |
+<img src="https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/July_27/IMG_7705.JPG" width="300" height="400"> |
+<img src="https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/July_27/IMG_7706.JPG" width="400" height="300"> 
