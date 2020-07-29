@@ -1,8 +1,8 @@
 # Production Assignment: Midterm Project Revisit, Enhancement (Fix the TV)
 
-**Photos of Game**
-
 **Photos of Electronics Used**
+
+
 
 **Schematic**
 
