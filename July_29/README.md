@@ -2,9 +2,11 @@
 
 **Photos of Electronics Used**
 
-
+<img src="https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/July_29/IMG_7710.jpg" width="700" height="600">
 
 **Schematic**
+
+<img src="https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/July_29/2020-07-29%2001-28.jpeg" width="500" height="700">
 
 **Project Description**
 
