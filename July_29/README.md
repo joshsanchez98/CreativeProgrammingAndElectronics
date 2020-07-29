@@ -31,7 +31,7 @@ I have decided to enhance some parts of my video game project [link] in order to
 
 - **Make sure to add resistors to your buttons!**  Without resistors, the button would be in a high state uncontrollably.  I spent nearly an hour figuring out the problem.
 Though I may not be wrong, I thought that the digital_read of the button states can be high if the circuit board is tossed around enough in a physical manner.  I thought I had to rewire and rearrange multiple wires before finding out that either the physical breadboard (or possibly the Arduino Uno) malfunctioned in the electrical components, or there must be something wrong in my code to cause high readings spontaneously from shaking the circuit board. 
-- **Confusing analogWrite() with digitalWrite().**  The potentiometer won’t detect little changes if you do digitalWrite(), but if you do analogWrite(), the potentiometer will sense the change.  Here, I was trying to adjust t
+- **Confusing analogWrite() with digitalWrite().**  The potentiometer won’t detect little changes if you do digitalWrite(), but if you do analogWrite(), the potentiometer will sense the change.  Here, I was trying to adjust to adjust the brightness of my sensor according to the analog voltage output of the sensor.
 
 **References**
 
