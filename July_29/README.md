@@ -1,5 +1,9 @@
 # Production Assignment: Midterm Project Revisit, Enhancement (Fix the TV)
 
+**Link to Midterm Project (Fix the TV), for your reference:**
+
+[Midterm Project](https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/tree/master/Midterm)
+
 **Photos of Electronics Used**
 
 <img src="https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/July_29/IMG_7710.jpg" width="700" height="600">
