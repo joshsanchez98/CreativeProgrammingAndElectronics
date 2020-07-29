@@ -16,6 +16,7 @@ I have decided to enhance some parts of my video game project [link] in order to
 - Whether to use the sound of the static, the sound of the tune, neither, or both.
 - Use the blue button to sound a tonal hint at the speaker to signal whether or not the cursor is close to the target for that problem.
 - Use the green button to sound a tonal hint at the speaker to signal how many problems that you have fixed.
+- Use the green LED light (not pictured) to test every component on my board. 
 
 **Things That Were Clever Or Tricky**
 
