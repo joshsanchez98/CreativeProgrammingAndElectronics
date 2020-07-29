@@ -17,11 +17,20 @@ I have decided to enhance some parts of my video game project [link] in order to
 - Use the blue button to sound a tonal hint at the speaker to signal whether or not the cursor is close to the target for that problem.
 - Use the green button to sound a tonal hint at the speaker to signal how many problems that you have fixed.
 
-Things That Were Clever Or Tricky
+**Things That Were Clever Or Tricky**
 
-**Mapping out what you wanted to do beforehand.**  As I am not an expert in programming, I am learning more and more, as I do these projects, that identifying a structure beforehand, before coding, makes your code much more organized, readable and editable as a code. 
-**Having the optimal number of problems as 8.**  There are exactly 8 notes in an octave, so it was easy to come up with the hint for the green button concerning the number of problems fixed! 
+- **Mapping out what you wanted to do beforehand.**  As I am not an expert in programming, I am learning more and more, as I do these projects, that identifying a structure beforehand, before coding, makes your code much more organized, readable and editable as a code. 
+- **Having the optimal number of problems as 8.**  There are exactly 8 notes in an octave, so it was easy to come up with the hint for the green button concerning the number of problems fixed! 
 
-Problems and How They Were Overcome
+**Problems and How They Were Overcome**
 
-References
+- **Make sure to add resistors to your buttons!**  Without resistors, the button would be in a high state uncontrollably.  I spent nearly an hour figuring out the problem.
+Though I may not be wrong, I thought that the digital_read of the button states can be high if the circuit board is tossed around enough in a physical manner.  I thought I had to rewire and rearrange multiple wires before finding out that either the physical breadboard (or possibly the Arduino Uno) malfunctioned in the electrical components, or there must be something wrong in my code to cause high readings spontaneously from shaking the circuit board. 
+- **Confusing analogWrite() with digitalWrite().**  The potentiometer won’t detect little changes if you do digitalWrite(), but if you do analogWrite(), the potentiometer will sense the change.  Here, I was trying to adjust t
+
+**References**
+
+- https://learn.sparkfun.com/tutorials/connecting-arduino-to-processing/all
+- https://www.arduino.cc/en/Tutorial/AnalogReadSerial
+- https://www.arduino.cc/reference/en/language/functions/digital-io/digitalread/
+
