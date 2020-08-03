@@ -8,9 +8,9 @@ My proposal is a two-part proposal.  I call the overall project, “A Sound Expe
 - Truchet Tiles (Former Project). [Link](https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/tree/master/July_13) I had generated random rotating Pacman-looking visuals in opposite colors to create an appealing, fun, and engaging visual.  Hopefully, this may be incorporated into the Processing project.
 - The Ancient Art of Painting on Water. [Link](https://www.youtube.com/watch?v=jeGqnicNS2A) I saw this artist, Garip Ay, who creates art pieces using an ancient Turkish technique called *ebru* of painting on water.  I was mesmerized by the dynamicness/movement of the colors changing, so it would be really cool to mimic that piece of art in my project.
 
-![Yes](https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/Aug_3_Final_Project/image_1.gif)
-![Yes](https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/July_13/my_image.png)
-![Yes](https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/Aug_3_Final_Project/image_3.gif)
+<img src = 'https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/Aug_3_Final_Project/image_1.gif'> |
+<img src = 'https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/July_13/my_image.png'> width = 500, height = 500> |
+<img src = 'https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/Aug_3_Final_Project/image_3.gif'>
  
 **Part 1:** 
 My first part is to create an interactive project where users can input their songs, and from that input, the user can view generated artworks that change according to the settings that are either 1) defined by the user manually or 2) pre-defined according to the aspects of the song (length, structure, amplitude, genre, etc.) 
