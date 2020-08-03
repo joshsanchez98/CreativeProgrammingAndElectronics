@@ -1,7 +1,7 @@
-# Draft Proposal: A Sound Experience
+# Draft Proposal: Sound Experience
 
 **Overview:** 
-My proposal is a two-part proposal.  I call the overall project, “A Sound Experience.” The inspiration comes from my experience with music creation and exploration; a hobby of mine is to explore new types of music as well as create art visuals, so I thought my final project would be the perfect opportunity to put on display my fascination with both art and music mediums through showcasing the technical skills gained in class using both Processing and Arduino.
+My proposal is a two-part proposal.  I call the overall project, “Sound Experience.” The inspiration comes from my experience with music creation and exploration; a hobby of mine is to explore new types of music as well as create art visuals, so I thought my final project would be the perfect opportunity to put on display my fascination with both art and music mediums through showcasing the technical skills gained in class using both Processing and Arduino.
  
 **Inspirations for Art:**
 - Ryoji Ikeda: The Transfinite. [Link](https://www.youtube.com/watch?v=omDK2Cm2mwo)  I love how he uses the simplicity of manipulating the order of long white lines but uses the contrast of light and dark accompanied with static-like sound to accentuate and to emphasize the visual and audio aspects to create a trance-like atmosphere. 
