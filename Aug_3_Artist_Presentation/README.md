@@ -17,3 +17,6 @@ The works I chose were not only his most popular, but also his most stunning mos
 - [*The Transfinite*](https://www.youtube.com/watch?v=omDK2Cm2mwo)
 - [*Test Pattern*](https://www.youtube.com/watch?v=XwjlYpJCBgk)
 - [*Superposition*](https://www.youtube.com/watch?v=0ivkmVDg4D0)
+
+**References of Quotes Used in Description (also listed on slides):**
+- [Article: "Infinite Quest: Ryoji Ikeda Wants to Disappear"](https://observer.com/2011/05/infinite-quest-ryoji-ikeda-wants-to-disappear/)
