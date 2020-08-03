@@ -14,15 +14,17 @@ My proposal is a two-part proposal.  I call the overall project, “A Sound Expe
  
 **Part 1:** 
 My first part is to create an interactive project where users can input their songs, and from that input, the user can view generated artworks that change according to the settings that are either 1) defined by the user manually or 2) pre-defined according to the aspects of the song (length, structure, amplitude, genre, etc.) 
-[insert image of music pointing to awesome visuals]
 *Software/Hardware Tools: Web design libraries (HTML, CSS, Javascript) and Processing*: 
 - Processing: Creates the visuals on a generated screen iteratively, and will play the MP4 provided. 
 - Web Design Libraries: Will to utilized to design an web interface where the user may interact and import songs and establish settings for the artwork to follow.
+
+<img src = 'https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/Aug_3_Final_Project/image_4.jpg'> 
  
 **Part 2:** 
 My second part is to allow users to physically manipulate the visuals they see as well as make a robot dance from commands in a breadboard. 
-[insert image of robot dancing in front of an art visual]
 *Software/Hardware Tools: Processing, Arduino (all materials included in Sparkfun Toolkit)*:
 - Processing: Visuals would be manipulated depending on the commands given from the breadboard.
 - Arduino: Use Arduino Uno, LED lights, switches, and motors to generate movement of the robot. 
 - Miscellaneous Items: Toilet paper rolls, glue, and other various house items to construct the robot, as there is no access to a Makerspace.
+
+<img src = 'https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/Aug_3_Final_Project/image_5.jpeg' width = 500 height = 500> 
