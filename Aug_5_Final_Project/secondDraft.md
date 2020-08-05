@@ -1,6 +1,6 @@
 # 2nd Draft Proposal: Sound Experience
 
-**Overall Changes From Previous Draft**
+**Overall Changes From [Previous Draft](https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/Aug_3_Final_Project/firstDraft.md)**
 - Inspirations for Art: Adding Reza Ali as an inspriation, after seeing [Megan's presentation](https://docs.google.com/presentation/d/1nMK23bF0SbIPO7mAfqlUKXqwxKJc16b8IlMIqiGY7CE/edit#slide=id.g8ef4d00c0a_0_2) about Reza Ali in class.
 - Part 1: Edited descriptions for Processing and Web Design explainations (added parameters in the context of demonstration purposes).
 - Part 1: Identified incorporating live music and Processing all on a website simultaneously **the most difficult component for the project**.
