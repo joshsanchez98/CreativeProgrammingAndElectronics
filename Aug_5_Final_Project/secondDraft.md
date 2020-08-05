@@ -1,4 +1,8 @@
-# Draft Proposal: Sound Experience
+# 2nd Draft Proposal: Sound Experience
+
+**Overall Changes From Previous Draft**
+- Inspirations for Art: Adding Reza Ali as an inspriation, after seeing [Megan's presentation](https://docs.google.com/presentation/d/1nMK23bF0SbIPO7mAfqlUKXqwxKJc16b8IlMIqiGY7CE/edit#slide=id.g8ef4d00c0a_0_2) about Reza Ali in class.
+- 
 
 **Overview:** 
 My proposal is a two-part proposal.  I call the overall project, “Sound Experience.” The inspiration comes from my experience with music creation and exploration; a hobby of mine is to explore new types of music as well as create art visuals, so I thought my final project would be the perfect opportunity to put on display my fascination with both art and music mediums through showcasing the technical skills gained in class using both Processing and Arduino.
@@ -7,6 +11,7 @@ My proposal is a two-part proposal.  I call the overall project, “Sound Experi
 - Ryoji Ikeda: The Transfinite. [Link](https://www.youtube.com/watch?v=omDK2Cm2mwo)  I love how he uses the simplicity of manipulating the order of long white lines but uses the contrast of light and dark accompanied with static-like sound to accentuate and to emphasize the visual and audio aspects to create a trance-like atmosphere. 
 - Truchet Tiles (Former Project). [Link](https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/tree/master/July_13) I had generated random rotating Pacman-looking visuals in opposite colors to create an appealing, fun, and engaging visual.  Hopefully, this may be incorporated into the Processing project.
 - The Ancient Art of Painting on Water. [Link](https://www.youtube.com/watch?v=jeGqnicNS2A) I saw this artist, Garip Ay, who creates art pieces using an ancient Turkish technique called *ebru* of painting on water.  I was mesmerized by the dynamicness/movement of the colors changing, so it would be really cool to mimic that piece of art in my project.
+- Reza Ali.  [Link](https://www.syedrezaali.com/) Ali is a computational designer, software engineer and artist. What inspires me the most about his artwork is his incorporation of computer algorithms into design, and as his work is featured in many places and software companies, as well as in music with Deadmau5, he would be another great artist to look up to for inspiration.
 
 <img src = 'https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/Aug_3_Final_Project/image_1.gif'> 
 <img src = 'https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/July_13/my_image.png' width = 500 height = 500>
