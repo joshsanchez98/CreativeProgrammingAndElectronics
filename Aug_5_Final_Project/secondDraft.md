@@ -16,7 +16,7 @@ My proposal is a two-part proposal.  I call the overall project, “Sound Experi
 <img src = 'https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/Aug_3_Final_Project/image_1.gif'> 
 <img src = 'https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/July_13/my_image.png' width = 500 height = 500>
 <img src = 'https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/Aug_3_Final_Project/image_3.gif'>
-<img src = 'https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/Aug_5_Final_Project/image_6.png'>
+<img src = 'https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/Aug_5_Final_Project/image_6.png' width = 600 height = 500>
  
 **Part 1:** 
 My first part is to create an interactive project where users can input their songs, and from that input, the user can view generated artworks that change according to the settings that are either 1) defined by the user manually or 2) pre-defined according to the aspects of the song (length, structure, amplitude, genre, etc.) 
