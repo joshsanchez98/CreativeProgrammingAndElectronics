@@ -2,7 +2,9 @@
 
 **Overall Changes From Previous Draft**
 - Inspirations for Art: Adding Reza Ali as an inspriation, after seeing [Megan's presentation](https://docs.google.com/presentation/d/1nMK23bF0SbIPO7mAfqlUKXqwxKJc16b8IlMIqiGY7CE/edit#slide=id.g8ef4d00c0a_0_2) about Reza Ali in class.
-- 
+- Part 1: Edited descriptions for Processing and Web Design explainations (added parameters in the context of demonstration purposes).
+- Part 1: Identified incorporating live music and Processing all on a website simultaneously **the most difficult component for the project**.
+- Part 2: Added ideas to make the robot more enjoyable for the user to play with.
 
 **Overview:** 
 My proposal is a two-part proposal.  I call the overall project, “Sound Experience.” The inspiration comes from my experience with music creation and exploration; a hobby of mine is to explore new types of music as well as create art visuals, so I thought my final project would be the perfect opportunity to put on display my fascination with both art and music mediums through showcasing the technical skills gained in class using both Processing and Arduino.
@@ -21,8 +23,9 @@ My proposal is a two-part proposal.  I call the overall project, “Sound Experi
 **Part 1:** 
 My first part is to create an interactive project where users can input their songs, and from that input, the user can view generated artworks that change according to the settings that are either 1) defined by the user manually or 2) pre-defined according to the aspects of the song (length, structure, amplitude, genre, etc.) 
 *Software/Hardware Tools: Web design libraries (HTML, CSS, Javascript) and Processing*: 
-- Processing: Creates the visuals on a generated screen iteratively, and will play the MP4 provided. 
-- Web Design Libraries: Will to utilized to design an web interface where the user may interact and import songs and establish settings for the artwork to follow.
+- Processing: Creates the visuals on a generated screen iteratively, and will play the MP4 provided.  (For demonstration purposes, we'll have to begin with sample songs first, and then see if time permits to incorporate the ability to adjust any song.)  
+- Web Design Libraries: Will to utilized to design an web interface where the user may interact and import songs and establish settings for the artwork to follow.  (For demonstration purposes, the interface may have to be very rudimentary and simple, and not very stylistic or design-appealing.) 
+- **I am identifying this part as the most difficult component for the project.** Generating a visually appealing artwork that correlates with the intricies of the song in real-time may an extremely difficult task, both computationally and organizationally.  To mitigate this task, I must research how to incorporate MP4 and Processing early in the process (latest figured out by the end of August 7th on Friday), and possibly even educate myself about how to incorporate Processing code and fucntionality onto a webpage. I truly want the final product of *Sound Experience* to be completely functional and usable by anyone on the internet, so I think this part may be a daunting task.
 
 <img src = 'https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/Aug_3_Final_Project/image_4.jpg'> 
  
@@ -30,7 +33,7 @@ My first part is to create an interactive project where users can input their so
 My second part is to allow users to physically manipulate the visuals they see as well as make a robot dance from commands in a breadboard. 
 *Software/Hardware Tools: Processing, Arduino (all materials included in Sparkfun Toolkit)*:
 - Processing: Visuals would be manipulated depending on the commands given from the breadboard.
-- Arduino: Use Arduino Uno, LED lights, switches, and motors to generate movement of the robot. 
-- Miscellaneous Items: Toilet paper rolls, glue, and other various house items to construct the robot, as there is no access to a Makerspace.
+- Arduino: Use Arduino Uno, LED lights, switches, and motors to generate movement of the robot.
+- Miscellaneous Items: Toilet paper rolls, glue, and other various house items to construct the robot, as there is no access to a Makerspace.  (To enhance the robot, there might be other motors that I want to utilize in order to add and to mobilize arms and body and eyes, so perhaps from parts included in an extra Sparkfun Toolkit obtained from another class.)
 
 <img src = 'https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/Aug_3_Final_Project/image_5.jpeg' width = 500 height = 500> 
