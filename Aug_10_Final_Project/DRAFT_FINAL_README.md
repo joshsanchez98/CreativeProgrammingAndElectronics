@@ -18,5 +18,5 @@
 - **Minim is the older library from Processing 2 and earlier, Sound is the newer library in Processing.** I noticed through discussing with colleagues that Processing had a library called Minim and there is some documentation for that library.  I ended up using the newer Sound library instead.
 
 **Used References**
-processing: how to play music using minim
-How to Turn Spotify Playlists into MP3 Files on ANY Desktop Operating System
+- processing: how to play music using minim
+- How to Turn Spotify Playlists into MP3 Files on ANY Desktop Operating System
