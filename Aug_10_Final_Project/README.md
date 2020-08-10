@@ -4,3 +4,4 @@
 
 **Next Steps:** I wish to continue by further amplifying the artwork by making it more interactive and creative. Additionally, because it is most likely not sophisticated enough, I would like to incorporate Arduino to at least have the controls mainpulate the artwork.
 
+![](https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/Aug_10_Final_Project/Screen%20Shot%202020-08-10%20at%204.46.06%20AM.png)
