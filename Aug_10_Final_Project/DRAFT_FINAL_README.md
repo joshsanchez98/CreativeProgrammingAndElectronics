@@ -9,7 +9,7 @@
 **Software and Hardware Tools Used**
 
 **Creation Process**
-- 1) **First iteration: Input MP3 track and have artwork that is generated change along with the music.  Only Processing.** I tried the demo Processing 3.5.4. Included, namely AudioWaveform, PeakAmplitude, and FFTSpectrum under the Sound library.  I had referenced code from these three examples to start generating inspiration.
+1) **First iteration: Input MP3 track and have artwork that is generated change along with the music.  Only Processing.** I tried the demo Processing 3.5.4. Included, namely AudioWaveform, PeakAmplitude, and FFTSpectrum under the Sound library.  I had referenced code from these three examples to start generating inspiration.
 
 **Final Presentation**
 
