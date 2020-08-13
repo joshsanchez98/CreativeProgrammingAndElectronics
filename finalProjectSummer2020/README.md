@@ -64,6 +64,7 @@ Initially, the following artists and artworks were my inspiration going into thi
   - 1 330 Ohm Resistor
   - Multiple Jupter Wires
   - Breadboard
+(Note: Check out the schematic to understand how to wire the setup.) 
 
 **[BACK TO TOP](#top)**
 
