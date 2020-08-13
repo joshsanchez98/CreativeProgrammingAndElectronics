@@ -27,12 +27,12 @@
 
 <a name="photo"></a>
 ### **Photographs of Project, Electronics and Schematic**
-<img src = 'https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/finalProjectSummer2020/screen1.png' width = 400, height = 400> |
-<img src = 'https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/finalProjectSummer2020/screen2.png' width = 400, height = 400> |
-<img src = 'https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/finalProjectSummer2020/screen3.png' width = 400, height = 400> |
-<img src = 'https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/finalProjectSummer2020/screen4.png' width = 400, height = 400> |
-<img src = 'https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/finalProjectSummer2020/screen5.png' width = 400, height = 400> |
-<img src = 'https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/finalProjectSummer2020/screen6.png' width = 400, height = 400>
+<img src = 'https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/finalProjectSummer2020/screen1.png' width = 450, height = 450> |
+<img src = 'https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/finalProjectSummer2020/screen2.png' width = 450, height = 450> |
+<img src = 'https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/finalProjectSummer2020/screen3.png' width = 450, height = 450> |
+<img src = 'https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/finalProjectSummer2020/screen4.png' width = 450, height = 450> |
+<img src = 'https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/finalProjectSummer2020/screen5.png' width = 450, height = 450> |
+<img src = 'https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/finalProjectSummer2020/screen6.png' width = 450, height = 450>
 <img src = 'https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/finalProjectSummer2020/f1.JPG' width = 600>
 <img src = 'https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/finalProjectSummer2020/f2.JPG' width = 600>
 <img src = 'https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/finalProjectSummer2020/FinalSchematic.jpeg' width = 600>
