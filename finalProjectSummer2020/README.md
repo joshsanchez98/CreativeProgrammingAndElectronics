@@ -3,8 +3,8 @@
 ### **Table of Contents.** 
 ##### *Note: Skip to different part of README.md using hyperlinks.*
 1. [Overview / Description of Project](#description)
-2. [Photographs of Project, Electronics and Schematic](#photo)
-3. [Video of Project](#video) 
+2. [Video of Project](#video) 
+3. [Photographs of Project, Electronics and Schematic](#photo) 
 4. [Idea Generation and Inspiration](#ideas)
 5. [Software and Hardware Tools Used](#tools)
 6. [Creation Process](#process)
@@ -15,6 +15,10 @@
 ### **Overview / Description of Project**
 - "Sound Experience (sound.exp) dissembles the aspects of a song and transforms them into components of art.  Using the tools of Processing coding and Arduino robotics, the project allows the participant to change what they see in front of them with only a click or a slight movement of a part.  Use this program with **any** MP3 file, and see your music come to life!"
 
+<a name="video"></a>
+### **Video of Project** | [Video Link](https://drive.google.com/drive/folders/1gv_rlsfUEM6OU5DiO-sNx0LS0egyxEGg?usp=sharing)
+- (Note: Clicking on the link will direct you to the folder with the video covering the project.)
+
 <a name="photo"></a>
 ### **Photographs of Project, Electronics and Schematic**
 <img src = 'https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/finalProjectSummer2020/screen1.png'>
@@ -24,10 +28,6 @@
 <img src = 'https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/finalProjectSummer2020/screen5.png'>
 <img src = 'https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/finalProjectSummer2020/f1.JPG'>
 <img src = 'https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/finalProjectSummer2020/f2.JPG'>
-
-<a name="video"></a>
-### **Video of Project** | [Video Link](https://drive.google.com/drive/folders/1gv_rlsfUEM6OU5DiO-sNx0LS0egyxEGg?usp=sharing)
-- (Note: Clicking on the link will direct you to the folder with the video covering the project.)
 
 <a name="ideas"></a>
 ### **Idea Generation and Inspiration**
