@@ -6,7 +6,7 @@
 ### **Photographs of Project, Electronics and Schematic**
 
 ### **Overview / Description of Project**
-- "Sound Experience (sound.exp) dissembles the aspects of a song and transforms them into components of art.  Using the power of Processing coding and Arduino robotics, users have the ability to change what the see in front of them with only a click or a slight movement of a part.  Use this program with **any** MP3 file, and see your music come to life!"
+- "Sound Experience (sound.exp) dissembles the aspects of a song and transforms them into components of art.  Using the tools of Processing coding and Arduino robotics, the project allows the participant to change what they see in front of them with only a click or a slight movement of a part.  Use this program with **any** MP3 file, and see your music come to life!"
 
 ### **Idea Generation and Inspiration**
 
