@@ -1,6 +1,7 @@
 # Final Project: Sound Experience [sound.exp]
 
-### **Table of Contents.** *Skip to different part of README.md using hyperlinks.*
+### **Table of Contents.** 
+##### *Note: Skip to different part of README.md using hyperlinks.*
 1. [Video of Project](#video)
 2. [Photographs of Project, Electronics and Schematic](#photo)
 3. [Overview / Description of Project](#description)
