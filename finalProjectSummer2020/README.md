@@ -2,9 +2,9 @@
 
 ### **Table of Contents.** 
 ##### *Note: Skip to different part of README.md using hyperlinks.*
-1. [Video of Project](#video)
+1. [Overview / Description of Project](#description)
 2. [Photographs of Project, Electronics and Schematic](#photo)
-3. [Overview / Description of Project](#description)
+3. [Video of Project](#video) 
 4. [Idea Generation and Inspiration](#ideas)
 5. [Software and Hardware Tools Used](#tools)
 6. [Creation Process](#process)
