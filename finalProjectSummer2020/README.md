@@ -48,10 +48,10 @@ Initially, the following artists and artworks were my inspiration going into thi
 - The Ancient Art of Painting on Water. [Link](https://www.youtube.com/watch?v=jeGqnicNS2A) I saw this artist, Garip Ay, who creates art pieces using an ancient Turkish technique called *ebru* of painting on water.  I was mesmerized by the dynamicness/movement of the colors changing, so it would be really cool to mimic that piece of art in my project.
 - Reza Ali.  [Link](https://www.syedrezaali.com/) Ali is a computational designer, software engineer and artist. What inspires me the most about his artwork is his incorporation of computer algorithms into design, and as his work is featured in many places and software companies, as well as in music with Deadmau5, he would be another great artist to look up to for inspiration.
 
-<img src = 'https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/Aug_3_Final_Project/image_1.gif'> 
-<img src = 'https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/July_13/my_image.png' width = 500 height = 500>
-<img src = 'https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/Aug_3_Final_Project/image_3.gif'>
-<img src = 'https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/Aug_5_Final_Project/image_6.png' width = 600 height = 500>
+<img src = 'https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/Aug_3_Final_Project/image_1.gif' width = 450> |
+<img src = 'https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/July_13/my_image.png' width = 450 height = 450> |
+<img src = 'https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/Aug_3_Final_Project/image_3.gif' width = 450> |
+<img src = 'https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/Aug_5_Final_Project/image_6.png' width = 450>
 
 **[BACK TO TOP](#top)**
 
