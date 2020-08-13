@@ -4,7 +4,7 @@
 ### **Table of Contents.** 
 ##### *Note: Skip to different part of README.md using hyperlinks.*
 1. [Overview / Description of Project](#description)
-2. [Video of Project](#video) 
+2. [Videos of Project](#video) 
 3. [Photographs of Project, Electronics and Schematic](#photo) 
 4. [Idea Generation and Inspiration](#ideas)
 5. [Software and Hardware Tools Used](#tools)
@@ -21,7 +21,7 @@
 
 <a name="video"></a>
 ### **Videos of Project** | [Video Link](https://drive.google.com/drive/folders/1gv_rlsfUEM6OU5DiO-sNx0LS0egyxEGg?usp=sharing)
-- (Note: Clicking on the link will direct you to the folder with the videos covering the project.)
+- (Note: Clicking on the link will direct you to the folder with the videos covering the project.  The video is currently split into three parts: video-part1.mov, video-part2.mov, video-part3.mov in that order.)
 
 **[BACK TO TOP](#top)**
 
