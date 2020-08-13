@@ -11,10 +11,9 @@
 7. [A Wrap-Up, Reflection and More Interesting Tidbits](#wrapup)
 8. [Used References](#reference)
 
-
-<a name="video"></a>
-### **Video of Project** | [Video Link](https://drive.google.com/drive/folders/1gv_rlsfUEM6OU5DiO-sNx0LS0egyxEGg?usp=sharing)
-- (Note: Clicking on the link will direct you to the folder with the video covering the project.)
+<a name="description"></a>
+### **Overview / Description of Project**
+- "Sound Experience (sound.exp) dissembles the aspects of a song and transforms them into components of art.  Using the tools of Processing coding and Arduino robotics, the project allows the participant to change what they see in front of them with only a click or a slight movement of a part.  Use this program with **any** MP3 file, and see your music come to life!"
 
 <a name="photo"></a>
 ### **Photographs of Project, Electronics and Schematic**
@@ -24,9 +23,9 @@
 <img src = 'https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/finalProjectSummer2020/screen4.png' width = 600 height = 600>
 <img src = 'https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/finalProjectSummer2020/screen5.png' width = 600 height = 600>
 
-<a name="description"></a>
-### **Overview / Description of Project**
-- "Sound Experience (sound.exp) dissembles the aspects of a song and transforms them into components of art.  Using the tools of Processing coding and Arduino robotics, the project allows the participant to change what they see in front of them with only a click or a slight movement of a part.  Use this program with **any** MP3 file, and see your music come to life!"
+<a name="video"></a>
+### **Video of Project** | [Video Link](https://drive.google.com/drive/folders/1gv_rlsfUEM6OU5DiO-sNx0LS0egyxEGg?usp=sharing)
+- (Note: Clicking on the link will direct you to the folder with the video covering the project.)
 
 <a name="ideas"></a>
 ### **Idea Generation and Inspiration**
