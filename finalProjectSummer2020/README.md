@@ -11,7 +11,7 @@
 - **Arduino** All of the Arduino-based devices are from [this](https://www.sparkfun.com/products/15267) Sparkfun's Inventor Kit.
 
 ### **Creation Process**
-1) **First iteration: Input MP3 track and have artwork that is generated change along with the music.  Only Processing.**I tried the demo Processing 3.5.4. Included, namely AudioWaveform, PeakAmplitude, and FFTSpectrum under the Sound library.  I had referenced code from these three examples to start generating inspiration.  This was successful after using the tool [AllToMP3](https://alltomp3.org/) to convert my Spotify songs to MP3, and then incorporate those MP3 files into the Processing code. 
+1) **First iteration: Input MP3 track and have artwork that is generated change along with the music.  Only Processing.** I tried the demo Processing 3.5.4. Included, namely AudioWaveform, PeakAmplitude, and FFTSpectrum under the Sound library.  I had referenced code from these three examples to start generating inspiration.  This was successful after using the tool [AllToMP3](https://alltomp3.org/) to convert my Spotify songs to MP3, and then incorporate those MP3 files into the Processing code. 
 2) **Second iteration: Generate unique backgrounds to accompany basic functionalities. Only Processing.** After confirming successful functionality, I continued to reference several other examples.  In this stage I created several different themes using the knowledge I have about creating shape generation, transformation, color manipulation, classes, and the like.  
 Final Presentation
 
