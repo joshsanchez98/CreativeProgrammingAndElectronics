@@ -18,6 +18,9 @@
 2) **Second iteration: Generate unique backgrounds to accompany basic functionalities. Only Processing.** After confirming successful functionality, I continued to reference several other examples.  In this stage I created several different themes using the knowledge I have about creating shape generation, transformation, color manipulation, classes, and the like.  
 Final Presentation
 
+### **Photographs of Project, Electronics and Schematic**
+
+
 ### **A Wrap-Up, Reflection and More Interesting Tidbits**
 - **MP3 in Processing slows down the song.** I tried running my file through MP4 and MP3 free files converters online, namely [Zamzar](https://zamzar.com) and [cloudconvert](https://cloudconvert.com/mp4-to-mp3).  Unfortunately, despite the converted files seemingly working fine on Quicktime, when downloading into Processing the song would be slowed to a lower tempo, thus changing the entire key of the song.
 - **Minim is the older library from Processing 2 and earlier, Sound is the newer library in Processing.** I noticed through discussing with colleagues that Processing had a library called Minim and there is some documentation for that library.  I ended up using the newer Sound library instead.
