@@ -9,7 +9,7 @@
 4. [Idea Generation and Inspiration](#ideas)
 5. [Software and Hardware Tools Used](#tools)
 6. [Creation Process](#process)
-7. [Final Presentation](#final)
+7. [Final Result](#final)
 8. [A Wrap-Up, Reflection and More Interesting Tidbits](#wrapup)
 9. [Used References](#reference)
 
@@ -57,7 +57,8 @@ Initially, the following artists and artworks were my inspiration going into thi
 <a name="tools"></a>
 ### **Software and Hardware Tools Used**
 - **Processing 3** Processing is an open project initiated by Ben Fry and Casey Rias. This software has been used to specifically create the images on the desktop associated with this project.  I am specifically using Version Processing 3.5.4.
-- **Arduino** All of the Arduino-based devices are from [this](https://www.sparkfun.com/products/15267) Sparkfun's Inventor Kit.
+- **Arduino** All of the Arduino-based devices are from [this](https://www.sparkfun.com/products/15267) Sparkfun's Inventor Kit.  I specifically chose to use the following physical tools to create the sensor: 
+-- e
 
 **[BACK TO TOP](#top)**
 
@@ -65,11 +66,6 @@ Initially, the following artists and artworks were my inspiration going into thi
 ### **Creation Process**
 1) **First iteration: Input MP3 track and have artwork that is generated change along with the music.  Only Processing.** I tried the demo Processing 3.5.4. Included, namely AudioWaveform, PeakAmplitude, and FFTSpectrum under the Sound library.  I had referenced code from these three examples to start generating inspiration.  This was successful after using the tool [AllToMP3](https://alltomp3.org/) to convert my Spotify songs to MP3, and then incorporate those MP3 files into the Processing code. 
 2) **Second iteration: Generate unique backgrounds to accompany basic functionalities. Only Processing.** After confirming successful functionality, I continued to reference several other examples.  In this stage I created several different themes using the knowledge I have about creating shape generation, transformation, color manipulation, classes, and the like. 
-
-**[BACK TO TOP](#top)**
-
-<a name="final"></a>
-### **Final Presentation**
 
 **[BACK TO TOP](#top)**
 
