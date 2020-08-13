@@ -57,8 +57,13 @@ Initially, the following artists and artworks were my inspiration going into thi
 <a name="tools"></a>
 ### **Software and Hardware Tools Used**
 - **Processing 3** Processing is an open project initiated by Ben Fry and Casey Rias. This software has been used to specifically create the images on the desktop associated with this project.  I am specifically using Version Processing 3.5.4.
-- **Arduino** All of the Arduino-based devices are from [this](https://www.sparkfun.com/products/15267) Sparkfun's Inventor Kit.  I specifically chose to use the following physical tools to create the sensor: 
--- e
+- **Arduino** All of the Arduino-based devices are from [this](https://www.sparkfun.com/products/15267) Sparkfun's Inventor Kit.  I specifically chose to use the following physical tools to create the setup: 
+  - Arduino Uno
+  - LCD Display
+  - 2 Potentiometers
+  - 1 330 Ohm Resistor
+  - Multiple Jupter Wires
+  - Breadboard
 
 **[BACK TO TOP](#top)**
 
