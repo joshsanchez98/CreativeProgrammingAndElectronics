@@ -20,8 +20,8 @@
 **[BACK TO TOP](#top)**
 
 <a name="video"></a>
-### **Video of Project** | [Video Link](https://drive.google.com/drive/folders/1gv_rlsfUEM6OU5DiO-sNx0LS0egyxEGg?usp=sharing)
-- (Note: Clicking on the link will direct you to the folder with the video covering the project.)
+### **Videos of Project** | [Video Link](https://drive.google.com/drive/folders/1gv_rlsfUEM6OU5DiO-sNx0LS0egyxEGg?usp=sharing)
+- (Note: Clicking on the link will direct you to the folder with the videos covering the project.)
 
 **[BACK TO TOP](#top)**
 
