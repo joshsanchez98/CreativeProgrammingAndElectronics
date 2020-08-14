@@ -22,6 +22,7 @@
 <a name="video"></a>
 ### **Videos of Project** | [Video Link](https://drive.google.com/drive/folders/1gv_rlsfUEM6OU5DiO-sNx0LS0egyxEGg?usp=sharing)
 - (Note: Clicking on the link will direct you to the folder with the videos covering the project.  The video is currently split into three parts: video-part1.mov, video-part2.mov, video-part3.mov in that order.)
+- Please note: There is no sound for video-part3.mov.  If the setup for Arduino and Processing are created well, then the demonstration must have the music playing well and directly on your desktop.
 
 **[BACK TO TOP](#top)**
 
