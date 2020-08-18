@@ -8,7 +8,8 @@ Welcome! This is my portfolio of all projects created in UC Berkeley's creative 
 All projects are my own.  Feel free to explore the documentation of the artworks and the visualizations I have made through the links provided below.  Feel free to drop by with questions or comments at joshuarafael@berkeley.edu.  Thank you!
 
 ## Hyperlinks to Projects:
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+
+| First Header 	| Second Header 	|
+| ---------------	| -------------------- 	|
+| Content Cell 	| Content Hall		|
+| Content Cell	| Content Cell		|
