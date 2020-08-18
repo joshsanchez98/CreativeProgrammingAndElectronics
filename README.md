@@ -5,7 +5,7 @@
 ## Introduction:
 Welcome! This is my portfolio of all projects created in UC Berkeley's creative programming and electronics course (DES INV 23). Made in Processing (Version 3.5.4) and made in Arduino (Version 1.8.13) using the Sparkfun Inventor's Kit. 
 
-All projects are my own.  The purpose of this document is to showcase my coding, art and design skills. Each project includes documentation about which libraries and tools I have used to create the work.
+All projects are my own.  The purpose of this document is to showcase my coding, art and design skills. Each project includes documentation about which libraries and tools I have used to create the work and project.
 
 Feel free to explore the documentation through the links provided below.  Feel free to drop by with questions or comments at joshuarafael@berkeley.edu.  Thank you!
 
