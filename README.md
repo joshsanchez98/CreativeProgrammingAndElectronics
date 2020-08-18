@@ -11,6 +11,4 @@ All projects are my own.  Feel free to explore the documentation of the artworks
 
 | Project Name 	| Photo			| Short Description	| Notes			|
 | ------------------- 	| ------------------		| ---------------------	| -------------------	|
-
 | Sound Experience	|			| "Sound Experience (sound.exp) dissembles the aspects of a song and transforms them into components of art. Using the tools of Processing coding and Arduino robotics, the project allows the participant to change what they see in front of them with only a click or a slight movement of a part. Use this program with any MP3 file, and see your music come to life!" |  
-
