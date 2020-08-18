@@ -8,8 +8,7 @@ Welcome! This is my portfolio of all projects created in UC Berkeley's creative 
 All projects are my own.  Feel free to explore the documentation of the artworks and the visualizations I have made through the links provided below.  Feel free to drop by with questions or comments at joshuarafael@berkeley.edu.  Thank you!
 
 ## Hyperlinks to Projects:
+| Project Name 	| Photo			| Short Description	|
+| ------------------- 	| ------------------		| ---------------------	|
+| Sound Experience	|			| "Sound Experience (sound.exp) dissembles the aspects of a song and transforms them into components of art. Using the tools of Processing coding and Arduino robotics, the project allows the participant to change what they see in front of them with only a click or a slight movement of a part. Use this program with any MP3 file, and see your music come to life!"	|
 
-| First Header 	| Second Header 	|
-| ---------------	| -------------------- 	|
-| Content Cell 	| Content Hall		|
-| Content Cell	| Content Cell		|
