@@ -1,4 +1,4 @@
-# Final Project: Sound Experience [sound.exp]
+# Final Project: Sound Experience (a.k.a. sound.exp)
 
 <a name='top'> </a>
 ### **Table of Contents.** 
