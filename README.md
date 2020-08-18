@@ -9,6 +9,8 @@ All projects are my own.  Feel free to explore the documentation of the artworks
 
 ## Hyperlinks to Projects:
 
+| Project Name 	| Photo			| Short Description	| Notes			|
+| ------------------- 	| ------------------		| ---------------------	| -------------------	|
 | [Sound Experience](https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/tree/master/finalProjectSummer2020)	| <img src = 'https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/finalProjectSummer2020/screen1.png' width = 450, height = 450> 
 <img src = 'https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/finalProjectSummer2020/screen2.png' width = 450, height = 450> 
 <img src = 'https://github.com/joshsanchez98/CreativeProgrammingAndElectronics/blob/master/finalProjectSummer2020/screen3.png' width = 450, height = 450> 
